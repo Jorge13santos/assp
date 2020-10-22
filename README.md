@@ -130,13 +130,8 @@ User: root
 
 Password: nospam4me
 
-## Support
 
-contato@fametec.com.br
 
-## e-Learning
-
-https://www.fametreinamentos.com.br
 
 
 
